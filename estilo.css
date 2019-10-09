@@ -1,0 +1,65 @@
+Header{
+    display:flex;
+    justify-content: space-between;
+    
+    /*background-color:#f00;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 33px;
+}
+    body{
+        
+        color: #474750;
+        width:94%;
+      
+      
+      }
+    
+      .color {
+          background-color:whitesmoke;
+      }
+
+      nav img {
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         box-shadow: 5px 5px 10px gray;
+         
+         width: 150px;
+         height: 150px;
+         border-radius: 150%;
+      }
+      
+      nav{
+          margin-top: 40px;
+          text-align: center;
+          font-size: 25px;
+          font-style: #474750;
+          color: #474750;
+          
+         
+      }
+    
+
+
+      .container {
+          max-width: 40%;
+          margin: auto;
+          
+          
+         
+      }
+
+      figcaption{
+          font-style: italic;
+          padding-top: 30px;
+      }
+
+      .reserva {
+
+      }
+
+
+   input{
+       width: 30%;
+   }
