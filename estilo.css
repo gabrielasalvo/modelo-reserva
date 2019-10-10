@@ -8,9 +8,8 @@ Header{
     margin-top: 33px;
 }
     body{
-        
-        color: #474750;
-        width:94%;
+        background-color:white;
+        width: 94%;
       
       
       }
@@ -43,8 +42,11 @@ Header{
 
 
       .container {
-          max-width: 40%;
-          margin: auto;
+          
+          max-width: 60%;
+          margin:5% auto;
+          
+          box-shadow: 5px 5px 10px #474750;
           
           
          
@@ -67,3 +69,9 @@ Header{
    .seta {
        width: 25px;
    }
+
+
+   nav p{
+       padding-bottom: 20px;
+       font-size: 20px;
+     
